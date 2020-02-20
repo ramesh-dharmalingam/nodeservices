@@ -6,5 +6,5 @@
 
  # Test
 
-http://localhost:8081/gmcservices/geocode/-33.8688/151.2195
-http://localhost:8081/gmcservices/vehicle/template/103
+1. http://localhost:8081/gmcservices/geocode/-33.8688/151.2195
+2. http://localhost:8081/gmcservices/vehicle/template/103
